@@ -9,7 +9,7 @@ const App = () => {
 
   return (
     <MapLoader
-      googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyDurZQBXjtSzKeieXwtFeGe-jhZu-HEGQU"
+      googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyAB7WjSMzv3jev6D-QZnUotf46dNzV4wFo"
       loadingElement={<div style={{ height: `100%` }} />}
     />
   );
